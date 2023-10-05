@@ -1,0 +1,6 @@
+a = int(input('1st '))
+b = int(input('2nd '))
+if a>b:
+    print(b)
+else:
+    print(a)
